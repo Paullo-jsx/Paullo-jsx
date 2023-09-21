@@ -13,7 +13,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Paullo-jsx&show_icons=true&count_private=true&hide_border=true&title_color=8B949E&icon_color=26939F&text_color=525969&bg_color=0d1117" alt="Minhas estatísticas" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=8B949E&text_color=525969&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paullo-jsx&layout=compact&hide_border=true&title_color=8B949E&text_color=525969&bg_color=0d1117" />
 </div>
 
 
