@@ -35,10 +35,9 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 <hr/>
-### Take a watch on my portfólio
+<h4> Take a watch on my portfólio</h4>
 <a href="https://paullo-jsx.github.io/paullo.jsx" target="_blank">Paulo's Portfolio</a>
 ### About my portfolio:
-``
   <ul type="number">#### My website is organized in three sections:
     <li>Home</li>
     <li>Projects</li>
