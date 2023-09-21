@@ -35,13 +35,12 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 <hr/>
-<h4> Take a watch on my portfólio</h4>
+<h3> Take a watch on my portfólio</h3>
 <a href="https://paullo-jsx.github.io/paullo.jsx" target="_blank">Paulo's Portfolio</a>
-### About my portfolio:
-  <ul type="number">#### My website is organized in three sections:
-    <li>Home</li>
-    <li>Projects</li>
-    <li>Contact</li>
+<h4> About my portfolio:<h4>
+  <ul type="number"><h5> My website is organized in three sections:<h5>
+    <li><p>Home</p></li>
+    <li><p>Projects</p></li>
+    <li><p>Contact</p></li>
 </ul>
-``
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=313a47&height=120&section=footer"/>
