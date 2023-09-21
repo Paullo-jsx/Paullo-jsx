@@ -35,12 +35,12 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 <hr/>
-<h3> Take a watch on my portfólio</h3>
+<h2> Take a watch on my portfólio</h2>
 <a href="https://paullo-jsx.github.io/paullo.jsx" target="_blank">Paulo's Portfolio</a>
 <h4>About my portfolio:<h4>
 <h5> My website is organized in three sections:<h5>
   <ul type="number">
-    <li><p>Home</p></li>
+    <li><p>Home (about me)</p></li>
     <li><p>Projects</p></li>
     <li><p>Contact</p></li>
   </ul>
