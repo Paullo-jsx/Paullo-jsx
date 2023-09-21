@@ -39,7 +39,7 @@
 <a href="https://paullo-jsx.github.io/paullo.jsx" target="_blank">Paulo's Portfolio</a>
 <div>
     <h3>About my portfolio:</h3>
-<div>
+</div>
 <h4>My website is organized in three sections:</h4>
   <ul type="number">
     <li><p>Home (about me)</p></li>
