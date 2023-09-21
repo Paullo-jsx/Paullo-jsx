@@ -40,7 +40,7 @@
 <div>
     <h3>About my portfolio:<h3>
 <div>
-<h4>My website is organized in three sections:<h4>
+<h4>My website is organized in three sections:</h4>
   <ul type="number">
     <li><p>Home (about me)</p></li>
     <li><p>Projects</p></li>
