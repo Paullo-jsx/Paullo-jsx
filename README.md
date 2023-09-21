@@ -38,7 +38,7 @@
 <h2> Take a watch on my portfólio</h2>
 <a href="https://paullo-jsx.github.io/paullo.jsx" target="_blank">Paulo's Portfolio</a>
 <div>
-    <h3>About my portfolio:<h3>
+    <h3>About my portfolio:</h3>
 <div>
 <h4>My website is organized in three sections:</h4>
   <ul type="number">
