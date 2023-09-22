@@ -38,6 +38,8 @@
 <div>
    <h2> Take a watch on my portfolio</h2>
    <a href="https://paullo-jsx.github.io/paullo.jsx" target="_blank">Paulo's Portfolio</a>
+  <a href="https://paullo-jsx.github.io/paullo.jsx" target="_blank">  <img src="https://github.com/Paullo-jsx/paullo.jsx/blob/main/src/assets/Capa%20de%20evento%20do%20Facebook%201920x1080%20%20px.%20(1).png?raw=true" alt="Preview of my website"/></a>
+ 
 </div>
 <h3>About my portfolio:</h3>
 <h4>My website is organized in three sections:</h4>
