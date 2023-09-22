@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B949E&size=35&center=true&vCenter=true&width=1000&lines=Hey!+Welcome+to+my+GitHub+profile!:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paullo-jsx&bg_color=161B22&color=8B949E&line=303945&point=7D8590&area=true&_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paullo-jsx&bg_color=161B22&color=8B949E&line=303945&point=7D8590&area=true&_border=true&area_color=8BE9FD&radius=9&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
