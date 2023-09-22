@@ -41,11 +41,11 @@
 </div>
 <h3>About my portfolio:</h3>
 <h4>My website is organized in three sections:</h4>
-  <ul type="number">
+  <ol type="number">
     <li><p>Home (about me)</p></li>
     <li><p>Projects</p></li>
     <li><p>Contact</p></li>
-  </ul>
+  </ol>
 <h4>Used libs:</h4>
    <ul>
       <li><a href="https://framer.com/motion" target=_blank">Framer Motion</a> - A ReactJS's lib used to create beautiful animations to the website</li>
