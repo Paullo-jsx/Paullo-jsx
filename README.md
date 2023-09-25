@@ -4,13 +4,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paullo-jsx&bg_color=161B22&color=8B949E&line=303945&point=7D8590&area=true&_border=true&area_color=8BE9FD&radius=9&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paullo-jsx&theme=gitdimmed&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Paullo-jsx&show_icons=true&count_private=true&hide_border=true&title_color=8B949E&icon_color=26939F&text_color=525969&bg_color=0d1117" alt="Minhas estatísticas" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paullo-jsx&layout=compact&hide_border=true&title_color=8B949E&text_color=525969&bg_color=0d1117" />
